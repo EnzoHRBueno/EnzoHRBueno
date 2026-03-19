@@ -11,4 +11,4 @@ Estudante IFTM Cursando Informática
   <a href="https://www.tiktok.com/WznZero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoHRBueno)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoHRBueno) ![EnzoHRBueno GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoHRBueno&show_icons=true&theme=react)
